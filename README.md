@@ -1,5 +1,7 @@
 ### Hi there, It's KSHITIJ AGRAWAL 👋
-<img src="C:\Users\Kshitij Agrawal\Downloads\read.png">
+
+![read](https://user-images.githubusercontent.com/45995212/94342103-53d59780-002c-11eb-8d94-155d3b31ad86.png)
+
 <!--
 **ksagrawal143/ksagrawal143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
