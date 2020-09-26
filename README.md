@@ -1,6 +1,7 @@
 ### Hi there, It's KSHITIJ AGRAWAL 👋
+![read](https://user-images.githubusercontent.com/45995212/94342159-c0509680-002c-11eb-8be2-d5862662b865.png)
 
-![read](https://user-images.githubusercontent.com/45995212/94342103-53d59780-002c-11eb-8d94-155d3b31ad86.png)
+Connect with me on LinkedIn: https://www.linkedin.com/in/kshitij-a-8b039b117/ 
 
 <!--
 **ksagrawal143/ksagrawal143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
